@@ -1,1 +1,1 @@
-# JDM_skin_RNAseq
+# JDM_skin_RNAseq analysis
